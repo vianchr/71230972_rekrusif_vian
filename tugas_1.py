@@ -9,3 +9,7 @@ def cek_prima(a,b=2):
         return cek_prima(a, b + 1)
 
 print(cek_prima(97))
+print(cek_prima(100))
+print(cek_prima(101))
+print(cek_prima(2))
+print(cek_prima(3))
