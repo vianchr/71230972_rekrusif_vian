@@ -11,7 +11,7 @@ def kombinasi(a,b):
         return kombinasi(a - 1, b) + kombinasi(a - 1, b - 1)
 
 print(kombinasi(7,3))
-        
+      print(kombinasi(7,3))  
         
         
         
